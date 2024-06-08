@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "overview": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+      "release_date": "2010-07-16",
+      "vote_average": 8.8,
+      "vote_count": 19273,
+      "poster_path": "inception.jpg",
+      "rating": 4 
+    },
+    {
+      "id": 3,
+      "title": "Oldboy",
+      "overview": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.",
+      "release_date": "2003-11-21",
+      "vote_average": 8.4,
+      "vote_count": 11592,
+      "poster_path": "oldboy.jpg",
+      "rating": 5  
+    },
+    {
+      "id": 7,
+      "title": "Joker",
+      "overview": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+      "release_date": "2019-10-04",
+      "vote_average": 8.2,
+      "vote_count": 17135,
+      "poster_path": "joker.jpg",
+      "rating": 3  
+    },
+    {
+      "id": 9,
+      "title": "Dead Poets Society",
+      "overview": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.",
+      "release_date": "1989-06-02",
+      "vote_average": 8.1,
+      "vote_count": 13843,
+      "poster_path": "dead_poets_society.jpg",
+      "rating": 4 
+    }
+  ]
+  

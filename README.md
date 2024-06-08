@@ -1,30 +1,8 @@
-# Haufe Summer Practice Hackathon 2024
+# React + Vite
 
-## "La ce ma mai uit?"
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-### Cerinta:
+Currently, two official plugins are available:
 
-Construiti o aplicatie pentru a recomanda seriale si filme.
-In cadrul aplicatiei, un utilizator poate sa:
-
-- posteze recomandari de seriale sau filme
-- creeze un grup de prieteni
-- impartaseasca filme in cadrul grupului
-
-O recomandare de film ar putea contine:
-
-- link
-- un mesaj scurt
-- unde a fost vizionat
-- rating
-- imagine poster
-
-Extra:
-
-- like-uri
-- comentarii
-
-Acestea sunt cerintele minime, dar sa nu va limitati la asta.
-Imaginatia si creativitatea este bine venita.
-
-🚀
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
